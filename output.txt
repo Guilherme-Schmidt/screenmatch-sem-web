@@ -1,0 +1,90 @@
+
+Top 10 episodios
+THE RAINS OF CASTAMERE
+THE WINDS OF WINTER
+HARDHOME
+BLACKWATER
+THE LION AND THE ROSE
+THE LAWS OF GODS AND MEN
+THE MOUNTAIN AND THE VIPER
+THE DOOR
+BAELOR
+THE WATCHERS ON THE WALL
+temporada=1, titulo='Winter Is Coming', numero=1, avaliacao=8.9, dataLancamento=2011-04-17
+temporada=1, titulo='The Kingsroad', numero=2, avaliacao=8.6, dataLancamento=2011-04-24
+temporada=1, titulo='Lord Snow', numero=3, avaliacao=8.5, dataLancamento=2011-05-01
+temporada=1, titulo='Cripples, Bastards, and Broken Things', numero=4, avaliacao=8.6, dataLancamento=2011-05-08
+temporada=1, titulo='The Wolf and the Lion', numero=5, avaliacao=9.0, dataLancamento=2011-05-15
+temporada=1, titulo='A Golden Crown', numero=6, avaliacao=0.0, dataLancamento=2011-05-22
+temporada=1, titulo='You Win or You Die', numero=7, avaliacao=9.1, dataLancamento=2011-05-29
+temporada=1, titulo='The Pointy End', numero=8, avaliacao=8.9, dataLancamento=2011-06-05
+temporada=1, titulo='Baelor', numero=9, avaliacao=9.6, dataLancamento=2011-06-12
+temporada=1, titulo='Fire and Blood', numero=10, avaliacao=9.4, dataLancamento=2011-06-19
+temporada=2, titulo='The North Remembers', numero=1, avaliacao=8.6, dataLancamento=2012-04-01
+temporada=2, titulo='The Night Lands', numero=2, avaliacao=8.4, dataLancamento=2012-04-08
+temporada=2, titulo='What Is Dead May Never Die', numero=3, avaliacao=0.0, dataLancamento=2012-04-15
+temporada=2, titulo='Garden of Bones', numero=4, avaliacao=8.6, dataLancamento=2012-04-22
+temporada=2, titulo='The Ghost of Harrenhal', numero=5, avaliacao=8.6, dataLancamento=2012-04-29
+temporada=2, titulo='The Old Gods and the New', numero=6, avaliacao=8.9, dataLancamento=2012-05-06
+temporada=2, titulo='A Man Without Honor', numero=7, avaliacao=8.8, dataLancamento=2012-05-13
+temporada=2, titulo='The Prince of Winterfell', numero=8, avaliacao=8.6, dataLancamento=2012-05-20
+temporada=2, titulo='Blackwater', numero=9, avaliacao=9.7, dataLancamento=2012-05-27
+temporada=2, titulo='Valar Morghulis', numero=10, avaliacao=9.3, dataLancamento=2012-06-03
+temporada=3, titulo='Valar Dohaeris', numero=1, avaliacao=8.6, dataLancamento=2013-03-31
+temporada=3, titulo='Dark Wings, Dark Words', numero=2, avaliacao=8.5, dataLancamento=2013-04-07
+temporada=3, titulo='Walk of Punishment', numero=3, avaliacao=8.7, dataLancamento=2013-04-14
+temporada=3, titulo='And Now His Watch Is Ended', numero=4, avaliacao=9.5, dataLancamento=2013-04-21
+temporada=3, titulo='Kissed by Fire', numero=5, avaliacao=8.9, dataLancamento=2013-04-28
+temporada=3, titulo='The Climb', numero=6, avaliacao=8.7, dataLancamento=2013-05-05
+temporada=3, titulo='The Bear and the Maiden Fair', numero=7, avaliacao=8.6, dataLancamento=2013-05-12
+temporada=3, titulo='Second Sons', numero=8, avaliacao=8.9, dataLancamento=2013-05-19
+temporada=3, titulo='The Rains of Castamere', numero=9, avaliacao=9.9, dataLancamento=2013-06-02
+temporada=3, titulo='Mhysa', numero=10, avaliacao=9.1, dataLancamento=2013-06-09
+temporada=4, titulo='Two Swords', numero=1, avaliacao=9.0, dataLancamento=2014-04-06
+temporada=4, titulo='The Lion and the Rose', numero=2, avaliacao=9.7, dataLancamento=2014-04-13
+temporada=4, titulo='Breaker of Chains', numero=3, avaliacao=8.7, dataLancamento=2014-04-20
+temporada=4, titulo='Oathkeeper', numero=4, avaliacao=8.7, dataLancamento=2014-04-27
+temporada=4, titulo='First of His Name', numero=5, avaliacao=8.6, dataLancamento=2014-05-04
+temporada=4, titulo='The Laws of Gods and Men', numero=6, avaliacao=9.7, dataLancamento=2014-05-11
+temporada=4, titulo='Mockingbird', numero=7, avaliacao=9.0, dataLancamento=2014-05-18
+temporada=4, titulo='The Mountain and the Viper', numero=8, avaliacao=9.7, dataLancamento=2014-06-01
+temporada=4, titulo='The Watchers on the Wall', numero=9, avaliacao=9.6, dataLancamento=2014-06-08
+temporada=4, titulo='The Children', numero=10, avaliacao=9.6, dataLancamento=2014-06-15
+temporada=5, titulo='The Wars to Come', numero=1, avaliacao=0.0, dataLancamento=2015-04-12
+temporada=5, titulo='The House of Black and White', numero=2, avaliacao=8.3, dataLancamento=2015-04-19
+temporada=5, titulo='High Sparrow', numero=3, avaliacao=8.4, dataLancamento=2015-04-26
+temporada=5, titulo='Sons of the Harpy', numero=4, avaliacao=8.5, dataLancamento=2015-05-03
+temporada=5, titulo='Kill the Boy', numero=5, avaliacao=8.5, dataLancamento=2015-05-10
+temporada=5, titulo='Unbowed, Unbent, Unbroken', numero=6, avaliacao=7.9, dataLancamento=2015-05-17
+temporada=5, titulo='The Gift', numero=7, avaliacao=8.8, dataLancamento=2015-05-24
+temporada=5, titulo='Hardhome', numero=8, avaliacao=9.8, dataLancamento=2015-05-31
+temporada=5, titulo='The Dance of Dragons', numero=9, avaliacao=9.4, dataLancamento=2015-06-07
+temporada=5, titulo='Mother's Mercy', numero=10, avaliacao=9.1, dataLancamento=2015-06-14
+temporada=6, titulo='The Red Woman', numero=1, avaliacao=8.4, dataLancamento=2016-04-24
+temporada=6, titulo='Home', numero=2, avaliacao=9.3, dataLancamento=2016-05-01
+temporada=6, titulo='Oathbreaker', numero=3, avaliacao=8.6, dataLancamento=2016-05-08
+temporada=6, titulo='Book of the Stranger', numero=4, avaliacao=9.0, dataLancamento=2016-05-15
+temporada=6, titulo='The Door', numero=5, avaliacao=9.7, dataLancamento=2016-05-22
+temporada=6, titulo='Blood of My Blood', numero=6, avaliacao=8.3, dataLancamento=2016-05-29
+temporada=6, titulo='The Broken Man', numero=7, avaliacao=8.5, dataLancamento=2016-06-05
+temporada=6, titulo='No One', numero=8, avaliacao=8.3, dataLancamento=2016-06-12
+temporada=6, titulo='Battle of the Bastards', numero=9, avaliacao=0.0, dataLancamento=2016-06-19
+temporada=6, titulo='The Winds of Winter', numero=10, avaliacao=9.9, dataLancamento=2016-06-26
+temporada=7, titulo='Dragonstone', numero=1, avaliacao=8.5, dataLancamento=2017-07-16
+temporada=7, titulo='Stormborn', numero=2, avaliacao=8.8, dataLancamento=2017-07-23
+temporada=7, titulo='The Queen's Justice', numero=3, avaliacao=9.1, dataLancamento=2017-07-30
+temporada=7, titulo='The Spoils of War', numero=4, avaliacao=0.0, dataLancamento=2017-08-06
+temporada=7, titulo='Eastwatch', numero=5, avaliacao=8.7, dataLancamento=2017-08-13
+temporada=7, titulo='Beyond the Wall', numero=6, avaliacao=0.0, dataLancamento=2017-08-20
+temporada=7, titulo='The Dragon and the Wolf', numero=7, avaliacao=0.0, dataLancamento=2017-08-27
+temporada=8, titulo='Winterfell', numero=1, avaliacao=7.6, dataLancamento=2019-04-14
+temporada=8, titulo='A Knight of the Seven Kingdoms', numero=2, avaliacao=7.9, dataLancamento=2019-04-21
+temporada=8, titulo='The Long Night', numero=3, avaliacao=7.5, dataLancamento=2019-04-28
+temporada=8, titulo='The Last of the Starks', numero=4, avaliacao=5.5, dataLancamento=2019-05-05
+temporada=8, titulo='The Bells', numero=5, avaliacao=5.9, dataLancamento=2019-05-12
+temporada=8, titulo='The Iron Throne', numero=6, avaliacao=4.0, dataLancamento=2019-05-19
+{1=8.955555555555556, 2=8.833333333333334, 3=8.940000000000001, 4=9.23, 5=8.744444444444445, 6=8.88888888888889, 7=8.775, 8=6.3999999999999995}
+Media: 8.696969696969697
+Melhor Episodio: 9.9
+Pior Episodio: 4.0
+Quantidade de episodios avaliados: 66

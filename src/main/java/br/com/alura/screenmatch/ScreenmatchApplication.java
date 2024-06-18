@@ -1,8 +1,6 @@
 package br.com.alura.screenmatch;
 
-import br.com.alura.screenmatch.model.DadosSerie;
-import br.com.alura.screenmatch.service.ConsumoAPI;
-import br.com.alura.screenmatch.service.ConverteDados;
+import br.com.alura.screenmatch.principal.Principal;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -16,11 +14,9 @@ public class ScreenmatchApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		ConsumoAPI consumoAPI = new ConsumoAPI(); //Instanciando a classe
-		var json = consumoAPI.obterDados("http://www.omdbapi.com/?t=Modern+Family&apikey=f5514f48");
-		System.out.println(json);
+		Principal principal = new Principal();
+		principal.exibeMenu();
 
-		ConverteDados converteDados = new ConverteDados();
-		DadosSerie dados =converteDados.obterDados(json,DadosSerie.class);
+
 	}
 }
